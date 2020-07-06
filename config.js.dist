@@ -1,0 +1,5 @@
+module.exports = {
+  CHAVE_JWT:"segredo",
+  database: 'mongodb://127.0.0.1:27017/jwt-posts',
+  initialPort: 3030,
+}

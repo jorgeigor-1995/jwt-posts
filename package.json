@@ -1,0 +1,32 @@
+{
+  "name": "jwt-posts",
+  "version": "1.0.0",
+  "description": "Test com jwt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "segurança",
+    "passport",
+    "jwt"
+  ],
+  "author": "Jorge Igor A. R. Silva",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15",
+    "cors": "^2.8.5",
+    "moment": "^2.26.0",
+    "async": "^1.5.0",
+    "axios": "^0.19.2",
+    "bcrypt-nodejs": "^0.0.3",
+    "chance": "^1.1.6",
+    "jsonwebtoken": "^5.4.0",
+    "form-data": "^3.0.0",
+    "gm": "^1.23.1",
+    "connect-multiparty": "^2.2.0"
+  }
+}
