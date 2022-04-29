@@ -20,7 +20,7 @@
     "mongoose": "^5.9.15",
     "cors": "^2.8.5",
     "moment": "^2.26.0",
-    "async": "^1.5.0",
+    "async": "^2.6.4",
     "axios": "^0.19.2",
     "bcrypt-nodejs": "^0.0.3",
     "chance": "^1.1.6",
